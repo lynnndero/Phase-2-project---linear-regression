@@ -23,7 +23,7 @@ We begin by importing the data from the provided databases(csv file and .md file
 
 We then prepare the data by cleaning it. This is by identifying any missing value, dropping the missing values and then checking for duplicates. Moreover, we formulate the hypothesis, null and alternative hypothesis
 
-We build models, get the results from the models, represent them using different visualizations such as scatterplots with fitted regression lines. 
+We first create dummy variables then build models, get the results from the models, represent them using different visualizations such as scatterplots with fitted regression lines. 
 
 Finally, we deduced conclusions from the model findings.
 
@@ -62,6 +62,7 @@ Checking for duplicates using .duplicated().sum()
 Formulated null hpothesis that home renovations does not increase the estimated value of houses and alternative hypotheis that home renovations does increase the estimated value of houses.
 
 ## 4. MODELING
+Created dummy variables from the data needed dataframe
 
 Started with a baseline modeling with target variable, Price, and feature variable, Sqft_livings, that had the highest correlation.Together with visualizations. The summary of the results from the fitted model showed that an increase in sqft_living results to an increase in price. The model also showed a 50% variance in price.
 
