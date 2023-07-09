@@ -8,8 +8,7 @@ Scheduled project review date/time: 1 WEEK
 
 Instructor name: ANTONNY MUIKO
 
-[Presentation link](https://docs.google.com/presentation/d/1ZlQAi1Z28xvuozPVPxn7UfFtK87RZQouCMTwPfaP0o0/edit#slide=id.g2584738647d_0_49)
-
+[Presentation link](https://docs.google.com/presentation/d/1ZlQAi1Z28xvuozPVPxn7UfFtK87RZQouCMTwPfaP0o0/edit?usp=sharing)
 
 
 
